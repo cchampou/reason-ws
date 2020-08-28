@@ -11,7 +11,7 @@
   },
   "scripts": {
     "format": "bash -c \"refmt --in-place *.re\"",
-    "run": "esy x Fetch"
+    "run": "esy x remote"
   },
-  "esy": { "build": [ "dune build -p Fetch" ] }
+  "esy": { "build": [ "dune build -p remote" ] }
 }

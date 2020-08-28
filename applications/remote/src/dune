@@ -1,0 +1,5 @@
+(executable
+  (name remote)
+  (package remote)
+  (libraries fetch)
+  (public_name remote))
