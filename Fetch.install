@@ -1,0 +1,8 @@
+lib: [
+  "/Users/cchampouillon/code/reason/_esy/default/store/b/reason-9252cd8d/install/default/lib/Fetch/META"
+  "/Users/cchampouillon/code/reason/_esy/default/store/b/reason-9252cd8d/install/default/lib/Fetch/dune-package"
+  "/Users/cchampouillon/code/reason/_esy/default/store/b/reason-9252cd8d/install/default/lib/Fetch/opam"
+]
+bin: [
+  "/Users/cchampouillon/code/reason/_esy/default/store/b/reason-9252cd8d/install/default/bin/Fetch"
+]

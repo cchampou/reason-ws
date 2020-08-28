@@ -1,0 +1,5 @@
+(executable
+  (name Fetch)
+  (package Fetch)
+  (libraries lwt cohttp cohttp-lwt-unix)
+  (public_name Fetch))
