@@ -1,0 +1,5 @@
+(executable
+  (name App)
+  (package App)
+  (libraries lwt cohttp cohttp-lwt-unix)
+  (public_name App))
